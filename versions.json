@@ -1,0 +1,13 @@
+{
+  "nodelogger": "3.7.3",
+  "verbatim": "1.0.1",
+  "darkbot": "1.3.5",
+  "imageengine": "1.4.0",
+  "portfolio": "1.0.0",
+  "paymentsystem": "1.2.0",
+  "docssystem": "1.0.1",
+  "cdnsystem": "1.0.0",
+  "encryptionsystem": "1.0.0",
+  "bookingsystem": "1.0.0",
+  "supportsystem": "1.0.0"
+}
