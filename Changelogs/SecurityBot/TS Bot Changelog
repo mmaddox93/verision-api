@@ -1,0 +1,13 @@
+## Version 1.5.0 (2024-02-07)
+---------------------------
+- Added:
+  - Added Channel Log for syncing.
+  - Added help menu
+  - Added changelog function
+- Changed:
+  - Updated dependencies to latest versions.
+  - Improved error handling in the bot.
+
+- Fixed:
+  - Verison code issue where the console would say undefined for the verison.
+
