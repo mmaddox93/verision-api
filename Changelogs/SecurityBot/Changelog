@@ -1,0 +1,34 @@
+Version 2.0.0 (2024-02-07)
+---------------------------
+- Added:
+  - Added ability to enable/disable welcome system.
+  - Added autoresponder configuration to config.json.
+  - Added paypal pay command for E-Stores
+
+- Changed:
+  - Updated dependencies to latest versions.
+  - Improved error handling in the bot.
+
+- Fixed:
+  - Issue with bot crashing when handling large messages.
+
+Version 1.2.0 (2022-02-28)
+---------------------------
+- Added:
+  - New command !help to display available commands.
+  - Support for custom welcome messages.
+
+- Changed:
+  - Updated dependencies to latest versions.
+  - Improved error handling in the bot.
+
+
+
+Version 1.1.0 (2022-01-15)
+---------------------------
+- Added:
+  - Automatic role assignment for new members.
+  - Support for custom prefixes.
+
+- Changed:
+  - Reorganized command categories for better usability.
