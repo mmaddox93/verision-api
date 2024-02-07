@@ -1,4 +1,4 @@
-Version 2.0.0 (2024-02-07)
+## Version 2.0.0 (2024-02-07)
 ---------------------------
 - Added:
   - Added ability to enable/disable welcome system.
@@ -12,7 +12,7 @@ Version 2.0.0 (2024-02-07)
 - Fixed:
   - Issue with bot crashing when handling large messages.
 
-Version 1.2.0 (2022-02-28)
+## Version 1.2.0 (2022-02-28)
 ---------------------------
 - Added:
   - New command !help to display available commands.
@@ -24,7 +24,7 @@ Version 1.2.0 (2022-02-28)
 
 
 
-Version 1.1.0 (2022-01-15)
+## Version 1.1.0 (2022-01-15)
 ---------------------------
 - Added:
   - Automatic role assignment for new members.
