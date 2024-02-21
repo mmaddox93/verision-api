@@ -1,3 +1,17 @@
+## Version 2.0.1 (2024-02-20)
+---------------------------
+- Added:
+  - Added enable/disable logging feature
+  - Added new shop command.
+  
+
+- Changed:
+  - Updated dependencies to latest versions.
+  - Updated command folder to have respected directorys.
+
+- Fixed:
+  - Issue with license saying invaild.
+
 ## Version 2.0.0 (2024-02-07)
 ---------------------------
 - Added:
