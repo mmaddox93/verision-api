@@ -1,9 +1,10 @@
 ## Version 2.0.1 (2024-02-20)
+## REPLACE ALL FILES AND REPLACE VAULES IN NEW CONFIG ##
 ---------------------------
 - Added:
   - Added enable/disable logging feature
   - Added new shop command.
-  
+  - Added logging feature for onboarding command
 
 - Changed:
   - Updated dependencies to latest versions.
