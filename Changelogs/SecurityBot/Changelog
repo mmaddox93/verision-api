@@ -5,7 +5,7 @@
   - Added enable/disable logging feature
   - Added new shop command.
   - Added logging feature for onboarding command
-
+  - ***** ADDED EXE FILE FOR WINDOWS USER TO PROPERLY START BOT *****
 - Changed:
   - Updated dependencies to latest versions.
   - Updated command folder to have respected directorys.
