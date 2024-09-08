@@ -3,21 +3,6 @@
     "Securitybot": {
       "version": "1.0.0",
       "download_url": "https://github.com/mmaddox93/bot1/archive/main.zip"
-    },
-  "nodelogger": "3.7.3",
-  "helpdesk": "1.0.0",
-  "securitybot": "1.2.0",
-  "security_bot": "2.0.1",
-  "streambot": "1.0.0",
-  "unionbot": "1.0.0",
-  "syncbot": "1.0.1",
-  "phoneix": "1.0.0",
-  "sidewinder": "1.0.0",
-  "backupcord": "1.0.0",
-  "tsdiscordsync": "1.5.0",
-  "invisionsync": "2.0.0",
-  "axisbot": "2.0.0",
-  "guildnetwork": "1.0.0",
-   "antiraidbot": "1.0.0",
-  "mailbot": "1.0.0"
+    }
+   }
 }
