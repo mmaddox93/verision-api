@@ -1,4 +1,9 @@
 {
+   "bots": {
+    "Securitybot": {
+      "version": "1.0.0",
+      "download_url": "https://github.com/mmaddox93/bot1/archive/main.zip"
+    },
   "nodelogger": "3.7.3",
   "helpdesk": "1.0.0",
   "securitybot": "1.2.0",
