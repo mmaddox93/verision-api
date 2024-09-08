@@ -2,7 +2,7 @@
    "bots": {
     "Securitybot": {
       "version": "1.0.0",
-      "download_url": "https://github.com/mmaddox93/bot1/archive/main.zip"
+      "download_url": "https://github.com/mmaddox93/botsecurity/archive/refs/tags/Release.zip"
     }
    }
 }
